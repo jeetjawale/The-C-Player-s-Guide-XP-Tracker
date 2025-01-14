@@ -1,4 +1,4 @@
-using Systeml
+using System;
 
 class Program
 {
@@ -15,3 +15,4 @@ class Program
         Console.WriteLine("Each sister gets " + forSisters + ".");
         Console.WriteLine("The duckbear gets " + forDuckbear + ".");
     }
+}
